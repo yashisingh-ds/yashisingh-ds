@@ -1,10 +1,7 @@
 # my-data-profile-👋 Hi, I'm Yashi Singh
 
-**A highly motivated and detail-oriented pre-final year B.Tech student** pursuing **Computer Science and Engineering** with a specialization in **Data Science** at **Sharda University**. With a strong foundation in data analytics, statistical modeling, and machine learning, I am passionate about uncovering meaningful insights from complex datasets to drive strategic decision-making. My expertise spans data visualization, predictive modeling. I am eager to leverage my skills in real-world analytics-driven solutions. Open to opportunities in **data analytics, business intelligence, and AI-powered data solutions**, I thrive in dynamic environments where I can apply my analytical mindset and technical proficiency to solve challenging problems.
+**A highly motivated and detail-oriented pre-final year B.Tech student** pursuing **Computer Science and Engineering** specializing in **Data Science** at **Sharda University**. With a strong foundation in data analytics, statistical modeling, and machine learning, I am passionate about uncovering meaningful insights from complex datasets to drive strategic decision-making. My expertise spans data visualization and predictive modeling. I am eager to leverage my skills in real-world analytics-driven solutions. Open to opportunities in **data analytics, business intelligence, and AI-powered data solutions**, I thrive in dynamic environments where I can apply my analytical mindset and technical proficiency to solve challenging problems.
 
-## 🚀 About Me
-- Exploring **Data Analytics, Machine Learning, and AI**
-- Learning **Power BI & AI Integration in Excel**
 ## 🚀 About Me
 - Data Analyst Enthusiast
 - Exploring **Data Analytics, Machine Learning, and AI**
@@ -19,14 +16,10 @@
 - Power BI (Learning)
 - Tableau
 - SQL
-
-
-### **🛠 Tools & Technologies**
 - Excel
 - Jupyter Notebook | Google Colab
 - Scikit-learn
 - AI Tools: Gemini, DeepSeek
-- Git & GitHub
 
 ## 🔬 Projects & Research
 - **📈 Stock Price Prediction using Stacked LSTM** (Research Work along with project)
@@ -42,6 +35,8 @@
   - Detects potential distress situations and employs tiered responses, including alerts, escalation, and an SOS button.
 
 ## 🏆 Hackathons & Community Work
+- **Early Ideathon Participation** (1st Year)
+- **Internal Smart India Hackathon Presenter** (2x, Past Two Years)
 - **Technovation Hackathon** (Stage Team, Certificate Design)
 - **Career Catalyst** (Internship & Placement Coordinator)
 
@@ -50,12 +45,12 @@
 - SQL for data analysis and database management
 - AI in Excel
 - Open-source contribution
-- Working on real-time projects to enhance visualization skills
+- Working on real-time projects to enhance visualization skills.
 
 ## 📫 Connect with Me
 - **GitHub**:(https://github.com/yashisingh-ds)
 - **LinkedIn**: (https://www.linkedin.com/in/yashi-19a01s/)
 - **Email**: (yashi.singh.ds@gmail.com)
 
----
+
 **Feel free to check out my projects and contribute!**
