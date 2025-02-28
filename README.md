@@ -1,4 +1,4 @@
-# my-data-profile-👋 Hi, I'm Yashi Singh
+👋 Hi, I'm Yashi Singh
 
 **A highly motivated and detail-oriented pre-final year B.Tech student** pursuing **Computer Science and Engineering** specializing in **Data Science** at **Sharda University**. With a strong foundation in data analytics, statistical modeling, and machine learning, I am passionate about uncovering meaningful insights from complex datasets to drive strategic decision-making. My expertise spans data visualization and predictive modeling. I am eager to leverage my skills in real-world analytics-driven solutions. Open to opportunities in **data analytics, business intelligence, and AI-powered data solutions**, I thrive in dynamic environments where I can apply my analytical mindset and technical proficiency to solve challenging problems.
 
