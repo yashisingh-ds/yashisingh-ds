@@ -55,7 +55,7 @@ Here are some of the key technologies I work with:
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/scikitlearn/scikitlearn-icon.svg" width="48" height="48" alt="Scikit-learn" /><br>
+      <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=robot&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEE4zrmVOhfqNiRUG1JbJo7UFdL_56zYp-A&s" alt="Machine Learning"/><br>
       <strong>Machine Learning</strong>
     </td>
     <td align="center" width="120">
