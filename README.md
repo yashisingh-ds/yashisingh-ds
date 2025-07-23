@@ -72,18 +72,18 @@ Here are some of the key technologies I work with:
       <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="48" height="48" alt="MS Excel" /><br>
       <strong>MS Excel</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="48" height="48" alt="Google Colab" /><br>
-      <strong>Google Colab</strong>
-    </td>
+    <td align="center" width="160">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/><br>
+  <strong>Google Colab</strong>
+</td>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br>
       <strong>Git</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/data-quality.png" width="48" height="48" alt="Data Cleaning" /><br>
-      <strong>Data Cleaning</strong>
-    </td>
+    <td align="center" width="160">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4A90E2?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Cleaning"/><br>
+  <strong>Data Cleaning</strong>
+</td>
     <td align="center" width="120">
       <img src="https://img.icons8.com/fluency/48/mind-map.png" width="48" height="48" alt="Data Modeling" /><br>
       <strong>Data Modeling</strong>
