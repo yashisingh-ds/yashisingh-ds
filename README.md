@@ -1,6 +1,7 @@
-👋 Hi, I'm Yashi Singh
 
-**A highly motivated and detail-oriented pre-final year B.Tech student** pursuing **Computer Science and Engineering** specializing in **Data Science** at **Sharda University**. With a strong foundation in data analytics, statistical modeling, and machine learning, I am passionate about uncovering meaningful insights from complex datasets to drive strategic decision-making. My expertise spans data visualization and predictive modeling. I am eager to leverage my skills in real-world analytics-driven solutions. Open to opportunities in **data analytics, business intelligence, and AI-powered data solutions**, I thrive in dynamic environments where I can apply my analytical mindset and technical proficiency to solve challenging problems.
+**👋 Hi, I'm Yashi Singh**
+
+**A detail-oriented final year B.Tech student** pursuing **Computer Science and Engineering** specializing in **Data Science** at **Sharda University**. With a strong foundation in data analytics, statistical modeling, and machine learning, I am passionate about uncovering meaningful insights from complex datasets to drive strategic decision-making. My expertise spans data visualization and predictive modeling. I am eager to leverage my skills in real-world analytics-driven solutions. Open to opportunities in **data analytics, business intelligence, and AI-powered data solutions**, I thrive in dynamic environments where I can apply my analytical mindset and technical proficiency to solve challenging problems.
 
 ## 🚀 About Me
 - Data Analyst Enthusiast
@@ -21,31 +22,12 @@
 - Scikit-learn
 - AI Tools: Gemini, DeepSeek
 
-## 🔬 Projects & Research
-- **📈 Stock Price Prediction using Stacked LSTM** (Research Work along with project)
-- **💬 Toxic Comments Classification using ML** (Research Work along with project)
-- - **📊 SMS Fraud Detection Using Machine Learning**
-  - Assessed model using precision, recall, and F1-score, enhanced accuracy via cross-validation.
-  - **Tech:** Python, Scikit-learn, Pandas
-- **💉 COVID Vaccine Analysis Using Python and Tableau**
-  - Analyzed vaccine efficiency, assessed effectiveness, and compared performance across regions.
-  - **Tech:** Python, Pandas, NumPy
-- **🛡 GuardianX - Real-time Safety Monitoring System**(Ongoing)
-  - Ensuring user security across various platforms with advanced speech recognition and intelligent monitoring.
-  - Detects potential distress situations and employs tiered responses, including alerts, escalation, and an SOS button.
-
 ## 🏆 Hackathons & Community Work
 - **Early Ideathon Participation** (1st Year)
 - **Internal Smart India Hackathon Presenter** (2x, Past Two Years)
 - **Technovation Hackathon** (Stage Team, Certificate Design)
 - **Career Catalyst** (Internship & Placement Coordinator)
 
-## 📚 Currently Learning
-- Power BI (PwC Virtual Experience & iScale Course)
-- SQL for data analysis and database management
-- AI in Excel
-- Open-source contribution
-- Working on real-time projects to enhance visualization skills.
 
 ## 📫 Connect with Me
 - **GitHub**:(https://github.com/yashisingh-ds)
