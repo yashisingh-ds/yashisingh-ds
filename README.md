@@ -97,15 +97,17 @@ Here are some of the key technologies I work with:
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashi-singh&show_icons=true&theme=dracula&rank_icon=github" alt="Yashi's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi-singh&layout=compact&theme=dracula" alt="Top Languages" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashi-singh&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi-singh&theme=tokyonight" width="400"/>
 </p>
+
+---
+### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi-singh&theme=dark&hide_border=true" alt="GitHub Streak" width="780"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi-singh&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
-</p>
 
 <!-- The snake animation reads your contribution graph and generates a snake game. -->
 <p align="center">
