@@ -4,7 +4,7 @@
   Hi, I'm Yashi Singh! 
 </h1>
 
-<h3 align="center">A Passionate Data Science Enthusiast from Greater Noida, India 🇮🇳</h3>
+<h3 align="center">Aspiring Data Analyst passionate about turning data into actionable insights.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-URL]" target="_blank">
@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors">
-</p>
 
 ---
 
