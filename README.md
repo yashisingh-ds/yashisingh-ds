@@ -107,12 +107,6 @@ Here are some of the key technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashisingh-ds&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
-
-<!-- The snake animation reads your contribution graph and generates a snake game. -->
-<p align="center">
-  <img src="https://github-profile-contribution-grid-snake.vercel.app/api?user=[YOUR-GITHUB-USERNAME]&color_snake=cyan&color_dots=#58,purple,#2c" alt="Snake animation" />
-</p>
-
 ---
 
 ### 🚀 My Projects
