@@ -97,12 +97,14 @@ Here are some of the key technologies I work with:
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dracula&rank_icon=github" alt="Yashi's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula" alt="Top Languages" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashi-singh&show_icons=true&theme=dracula&rank_icon=github" alt="Yashi's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi-singh&layout=compact&theme=dracula" alt="Top Languages" width="370"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=dark&hide_border=true" alt="GitHub Streak" width="780"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi-singh&theme=dark&hide_border=true" alt="GitHub Streak" width="780"/>
+</p>
+
 </p>
 
 <!-- The snake animation reads your contribution graph and generates a snake game. -->
