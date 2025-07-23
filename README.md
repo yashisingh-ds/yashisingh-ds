@@ -52,8 +52,8 @@ Here are some of the key technologies I work with:
       <strong>Power BI</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" height="48" alt="Tableau" /><br>
-      <strong>Tableau</strong>
+      <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" height="48" alt="Tableau"/><br>
+  <strong>Tableau</strong>
     </td>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/scikitlearn/scikitlearn-icon.svg" width="48" height="48" alt="Scikit-learn" /><br>
