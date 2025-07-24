@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/yashi-19a01s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/u/YashiSingh/" target="_blank">Visit my LeetCode Profile</a>
+  <a href="https://leetcode.com/u/YashiSingh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="mailto:yashi.singh.ds@gmail.com">
