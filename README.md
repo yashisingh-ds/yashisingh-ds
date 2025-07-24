@@ -7,10 +7,10 @@
 <h3 align="center">Aspiring Data Analyst passionate about turning data into actionable insights.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yashi-19a01s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/[YOUR-LEETCODE-USERNAME]/" target="_blank">
+  <a href="https://leetcode.com/https://leetcode.com/u/YashiSingh//" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="mailto:yashi.singh.ds@gmail.com">
