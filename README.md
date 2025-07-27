@@ -174,7 +174,7 @@ May 2024 - July 2024
   - *Database Programming with SQL* – Oracle Academy (Sept 2024)
   - *Data Preprocessing* – Great Learning (Aug 2024)
   - *Machine Learning* – Simplilearn (June 2024)
-  - *Power BI for Beginners* – Infosys Springboard (May 2024) <!-- Corrected year -->
+  - *Power BI for Beginners* – Infosys Springboard (May 2025) <!-- Corrected year -->
 </details>
 
 ---
