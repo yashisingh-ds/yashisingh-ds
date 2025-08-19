@@ -121,7 +121,7 @@ Here are some of my favorite projects I've worked on:
     - Resolved nulls, duplicates, and schema inconsistencies.
     - Conducted SQL-based Exploratory Data Analysis (EDA) to uncover insights on product sales, customer segmentation, and seasonal trends.
   - *Tech Stack:* SQL, MySQL, Database Design, Data Cleaning, EDA
-  - *[🔗 View on GitHub]([LINK-TO-YOUR-PROJECT-REPO])*
+  - *[🔗 View on GitHub](https://github.com/yashisingh-ds/-SQLytics-for-Retail-SQL-Analytics-)*
 </details>
 
 <details>
@@ -133,7 +133,7 @@ Here are some of my favorite projects I've worked on:
     - Built interactive and dynamic dashboards in Tableau to visualize country-wise vaccine distribution and efficiency trends.
     - Improved data interpretation for stakeholders by 15%.
   - *Tech Stack:* Python, Pandas, Tableau, Data Visualization, Data Cleaning
-  - *[🔗 View on GitHub]([LINK-TO-YOUR-PROJECT-REPO])*
+  - *[🔗 View on GitHub](https://github.com/yashisingh-ds/Covid-19-Vaccine-Analysis)*
 </details>
 
 <details>
@@ -145,7 +145,7 @@ Here are some of my favorite projects I've worked on:
     - Trained and evaluated multiple classification models (e.g., Logistic Regression, Naive Bayes), improving detection accuracy by 20% compared to a baseline model.
     - Presented findings through clear visualizations and technical documentation.
   - *Tech Stack:* Python, Scikit-learn, NLTK, Pandas, Machine Learning, NLP
-  - *[🔗 View on GitHub]([LINK-TO-YOUR-PROJECT-REPO])*
+  - *[🔗 View on GitHub](https://github.com/yashisingh-ds/Advanced-Toxic-Comment-Classifier)*
 </details>
 
 ---
