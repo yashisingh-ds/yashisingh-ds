@@ -192,16 +192,16 @@ May 2024 - July 2024
 I'm always open to connecting with like-minded professionals and discussing new opportunities. Feel free to reach out!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/in/yashi-19a01s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/[YOUR-GITHUB-USERNAME]" target="_blank">
+  <a href="https://github.com/yashisingh-ds" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:yashi.singh.ds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://leetcode.com/[YOUR-LEETCODE-USERNAME]/" target="_blank">
+  <a href="https://leetcode.com/u/YashiSingh//" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
