@@ -161,6 +161,15 @@ May 2024 - July 2024
 - Assisted in *exploratory data analysis* of business datasets to identify key patterns.
 - Documented workflows and presented data-driven insights to stakeholders, improving clarity by *20%*.
 
+ *Data and Research Trainee* @ *EZ* 
+<br>
+Oct 2025 - Present
+
+- Conducted market, consumer, and competitor research to identify business trends and insights.
+- Analyzed data to support strategic decisions and product improvements.
+- Created clear reports and dashboards to present findings to teams.
+- Kept track of market trends and tools to stay updated with industry changes.
+
 ---
 
 ### 🎓 Education & Certifications
