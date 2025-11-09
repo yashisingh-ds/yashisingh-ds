@@ -4,7 +4,7 @@
   Hi, I'm Yashi Singh! 
 </h1>
 
-<h3 align="center">Aspiring Data Analyst passionate about turning data into actionable insights.</h3>
+<h3 align="center">Data & Research Trainee | Aspiring Data Analyst | Skilled in SQL, Python, Power BI & Data Storytelling</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashi-19a01s/" target="_blank">
@@ -25,9 +25,10 @@
 
 I am a final-year Computer Science Engineering student with a specialization in *Data Science*. My passion lies in transforming raw data into actionable insights that drive business decisions. I have hands-on experience in the complete data lifecycle, from collection and cleaning to advanced analysis and visualization.
 
-- 🎓 I'm currently pursuing my *B.Tech in CSE (Data Science)* at Sharda University.
-- 🔭 I’m seeking a challenging role as a *Data Analyst, **Business Intelligence Analyst, or **Data Associate*.
-- 🌱 I’m skilled in *SQL, **Python, **Power BI, and **Tableau*, and I love building interactive dashboards.
+Currently working as a Data & Research Trainee, I conduct market and competitor research, analyze data, and translate findings into clear, actionable insights.
+
+- 🌱 I’m skilled in *SQL*, *Python*, *Power BI*, and *Tableau*, and I love building interactive dashboards.
+- 🔭 I’m now seeking opportunities as a *Data Analyst*, *Business Intelligence Analyst*, or *Product Analyst* to apply my analytical mindset and problem-solving skills to real-world challenges.
 - ✍ I enjoy sharing my knowledge through my articles on *Medium* and newsletters on *MailerLite*.
 - 💬 Ask me about *Data Storytelling, **Machine Learning*, or anything related to data!
 
